@@ -1,0 +1,51 @@
+{
+  
+  "name":"Create React App",
+  "type":"folder",
+  "items":[
+     {
+      "name":"package-lock.json",
+      "type":"file"
+     },
+     {
+      "name":"package.json",
+      "type":"file"
+     },
+     {
+      "name":".gitignore",
+      "type":"file"
+     },
+     {
+      "name":"src",
+      "type":"folder",
+       "items":[
+              {
+                "name": "Component",
+                "type":"folder",
+                "items":[
+                  {
+                    "name":"new component",
+                    "type":"file"
+                  }
+                ]
+                
+              },
+              {
+                "name":"Redux",
+                "type":"folder",
+                "items":[
+                  {
+                    "name":"reducer",
+                    "type":"file"
+                  },
+                  {
+                    "name":"store",
+                    "type":"file"
+                  }
+                ]
+               }
+          ]
+     }
+    
+    ]
+}
